@@ -64,7 +64,7 @@ local library = {
     opening = false;
     hasInit = false;
     cheatname = startupArgs.cheatname or 'SpareChange';
-    gamename = startupArgs.gamename or 'universal';
+    gamename = startupArgs.gamename or 'Dahood';
     fileext = startupArgs.fileext or '.txt';
     domain = startupArgs.domain or '.rip';
 }
